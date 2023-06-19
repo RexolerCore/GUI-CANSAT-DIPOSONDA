@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="Image">
+    <file>Image/CanSat Logo - Color.png</file>
+    <file>Image/logo-undip-01.png</file>
+  </qresource>
+</RCC>
